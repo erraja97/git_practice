@@ -6,3 +6,4 @@ assets/videos/
 #add exception to this js file
 !app.js 
 *.log
+*.php
