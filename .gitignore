@@ -1,0 +1,8 @@
+#this is a comment
+*.js
+myfolder/
+assets/videos/
+*.mp4
+#add exception to this js file
+!app.js 
+*.log
