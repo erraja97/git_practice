@@ -4,3 +4,4 @@ threefunction - i have added a very nasty function here.
 
 
 This is added in master branch
+check if updating in github or not
